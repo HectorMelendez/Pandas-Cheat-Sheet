@@ -1,5 +1,5 @@
 
-![Pandas Banner](Images/pandas_banner.png)
+![Pandas Banner](images/pandas_banner.png)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
