@@ -8,7 +8,7 @@
 ### By: Hector Melendez
 Data Analyst | Producer & Audio Engineer
 
-- 🖥 Website: https://hectormelendez.github.com
+- 🖥 Website: https://HectorMelendez.github.com
 - 💼 LinkedIn: https://www.linkedin.com/in/melendezriverahector
 - 🗃 Github: https://github.com/HectorMelendez
 - 📧 Email: melendezriverahector@gmail.com
