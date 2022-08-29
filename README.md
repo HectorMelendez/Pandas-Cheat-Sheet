@@ -8,7 +8,7 @@
 ### By: Hector Melendez
 Data Analyst | Producer & Audio Engineer
 
-- 🖥 Website: https://HectorMelendez.github.com
+- 🖥 Website: https://HectorMelendez.github.com (Under Development)
 - 💼 LinkedIn: https://www.linkedin.com/in/melendezriverahector
 - 🗃 Github: https://github.com/HectorMelendez
 - 📧 Email: melendezriverahector@gmail.com
@@ -16,6 +16,8 @@ Data Analyst | Producer & Audio Engineer
 ---
 
 ## **Quick Preview**
+
+![quick preview](images/preview.png)
 
 > **⚠️ Tip:** Use [Anaconda] (create new environment), and [Jupyter Lab] (better than Notebook).
 >
