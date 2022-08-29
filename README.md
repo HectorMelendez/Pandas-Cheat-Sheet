@@ -19,7 +19,7 @@ Data Analyst | Producer & Audio Engineer
 
 ![quick preview](images/preview.png)
 
-> **⚠️ Tip:** Use [Anaconda] (create new environment), and [Jupyter Lab] (better than Notebook).
+> **⚠️ Tip:** Use [Anaconda] (create new enviroment), and [Jupyter Lab] (better than Notebook IMHO).
 >
 Sometimes you don't need to memorize everything by heart.  Having a great reference point for all your thoughts will save you tons of time in the future.  Document everything that you feel is important (your personal projects) and make sure that your fundamentals are rock solid.
 
